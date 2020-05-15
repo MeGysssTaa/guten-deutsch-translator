@@ -61,7 +61,15 @@ SCARY_WORDS = [
     'Sozialversicherungsfachangestelltenauszubildender',
     'Weihnachtskeksdosendeckel',
     'Subatomarteilchenbeschleunigungsnaturmäßigkeitsuntersuchungsmaschine',
-    'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz'
+    'Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz',
+    'Arbeiterunfallversicherungsgesetz',
+    'Bundesausbildungsförderungsgesetz',
+    'Investitionsverwaltungsentwicklungsgesellschaft',
+    'Grundstücksverkehrsgenehmigungszuständigkeitsübertragungsverordnung',
+    'Straßenentwässerungsinvestitionskostenschuldendienstumlage',
+    'Unterhaltungselektroniktelefonverarbeitungspartner',
+    'Erdachsendeckelscharnierschmiernippelkommission',
+    'Wochenstundenentlastungsbereinigungsverordnung'
 ]
 
 
