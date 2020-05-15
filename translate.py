@@ -56,7 +56,7 @@ SCARY_WORDS = [
     'Rechtsschutzversicherungsgesellschaften',
     'Donaudampfschiffahrtsgesellschaftskapitän',
     'Siebentausendzweihundertvierundfünfzig',
-    'Ezirksschornsteinfegermeister',
+    'Bezirksschornsteinfegermeister',
     'Siebenhundertsiebenundsiebzigtausendsiebenhundertsiebenundsiebzig',
     'Sozialversicherungsfachangestelltenauszubildender',
     'Weihnachtskeksdosendeckel',
